@@ -6,9 +6,7 @@
 ---
 
 ## 🚀 Sobre mim
-
-Sou estudante de Ciência da Computação na UFMA, Desenvolvedor Backend focado em Java com Spring Boot, mas com base anterior em Javascript com Express. Busco novos desafios na área de backend e me integro cada vez mais nas ferramentas do dia a dia de um desenvolvedor.
-
+Desenvolvedor Backend focado em Java com Spring Boot, tendo base anterior em Javascript com Express. Trabalho desenvolvendo sistemas backend com APIs REST, com arquitetura em camadas, autenticação e validação, além de integração com banco de dados PostgreSQL.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
